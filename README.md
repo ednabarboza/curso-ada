@@ -1,6 +1,8 @@
 # Curso Ada
 ## Exercício do Módulo de Nivelamento de Lógica de Progração e OO 
 
+### 📖 Texto das questões propostas
+
 #### 1) Escreva uma classe cujos objetos representam alunos matriculados em uma disciplina. Cada objeto dessa classe deve guardar os seguintes dados do aluno: matrícula, nome, 2 notas de prova e 1 nota detrabalho. Escreva os seguintes métodos para esta classe:
 - media: calcula a média final do aluno cada prova tem peso 2,5 e o trabalho tem peso 2
 - final: calcula quanto o aluno precisa para a prova final (retorna zero se ele não for para a final)
@@ -59,3 +61,20 @@ Os métodos proximoLivre, verifica e ocupa da superclasse devem ser adaptados pa
 #### Implemente a funcionalidade para adicionar produtos ao estoque, remover produtos por código, alterar produtos por código, buscar produtos por código, listar todos os produtos no estoque e calcular o valor total do estoque. 
 #### Crie instâncias de produtos e adicione-os ao estoque. 
 #### Teste os métodos implementados através de um menu no console, permitindo que o usuário realize as operações de controle de estoque.
+
+### ⚙ Instalações - Como rodar os arquivos
+
+1 - Ao baixar instale a pasta node_modules
+
+```
+npm install
+
+# ou
+yarn install
+```
+
+2- Para rodar o arquivo com as questões use o comando 
+
+```
+npm start
+```
