@@ -1,6 +1,13 @@
 # Curso Ada
 ## Exercício do Módulo de Nivelamento de Lógica de Progração e OO 
 
+### 👩🏽‍🤝‍👩🏽👬Integrantes do grupo:
+- Edna Barboza de Lima 
+- Lucas Dos Santos Machado
+- Maria Eduarda De Oliveira Almeida
+- Marlon Costa Souza
+- Wendel De Marins Lopes
+
 ### 📖 Texto das questões propostas
 
 #### 1) Escreva uma classe cujos objetos representam alunos matriculados em uma disciplina. Cada objeto dessa classe deve guardar os seguintes dados do aluno: matrícula, nome, 2 notas de prova e 1 nota detrabalho. Escreva os seguintes métodos para esta classe:
