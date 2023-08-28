@@ -1,5 +1,5 @@
 # Curso Ada
-## Exercício do Módulo de Nivelamento de Lógica de Progração e OO 
+## Exercício do Módulo de Nivelamento de Lógica de Programação e OO 
 
 ### 👩🏽‍🤝‍👩🏽👬Integrantes do grupo:
 - Edna Barboza de Lima 
@@ -85,3 +85,5 @@ yarn install
 ```
 npm start
 ```
+### 📽 Vídeo mostrando as questões rodando, clique <a href= "https://youtu.be/hS7JkLmmQ6c" target="_blank">aqui</a>
+
